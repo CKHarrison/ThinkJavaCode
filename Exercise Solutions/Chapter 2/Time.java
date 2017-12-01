@@ -16,7 +16,7 @@ public class Time {
         System.out.println("Percentage of day that has passed:");
         System.out.println( (secondsSinceMidnight / midnightDouble) * 100 + "%");
         System.out.println("Time elapsed since the start of this project");
-        System.out.println(secondsSinceMidnight - oldTime);
+        System.out.println((secondsSinceMidnight - oldTime) / 60 + " minutes");
         
     }
 }
