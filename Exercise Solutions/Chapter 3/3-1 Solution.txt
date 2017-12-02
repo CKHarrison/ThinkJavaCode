@@ -1,0 +1,1 @@
+You get an Illegal Format Conversion Exeption. For example if printf is expecting a %f and instead it gets a int, when you run the code you get f != java.lang.Integer, and vice versa for a int error. If you don’t have the correct number of arguments you get a missing format argument exception erro
