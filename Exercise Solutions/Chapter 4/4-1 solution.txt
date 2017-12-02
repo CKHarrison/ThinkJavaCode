@@ -1,0 +1,5 @@
+No, I wug.
+You wugga wug.
+I wug.
+
+If you invoke baffle at the end of the ping method, you will get an infinite loop.
