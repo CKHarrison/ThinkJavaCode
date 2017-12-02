@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-//Converting Celsius to Fahrenheit
+//Hour Conversion
 
-public class CelsiusConvert {
+public class HourConversion {
 
     public static void main(String[] args) {
         double celsiusTemp;
