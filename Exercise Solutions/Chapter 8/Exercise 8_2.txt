@@ -1,0 +1,7 @@
+Exercise 8-2
+
+
+1) The method bananna is traversing through an array, and accumulating product of all of the elements. Kiwi is that accumulator and the variable i is the index of each element.
+2) The method grapefruit is traversing through an array, and is search for any index which matches the parameter int grape, if it finds one that matches, it returns the index, if not it returns -1.
+The variable a is the array that is being searched, and int grape is the integer it is searching for.
+3) The method pineapple is traversing through an array a, with an int parameter apple. Pear is the counter. If the value in the current index matches the value apple, pear is incremented. At the end it returns how many matching values it found.
